@@ -1,0 +1,16 @@
+{
+  "tokenList": {
+    "MCO": {
+      "decimal": 8,
+      "address": "0xcac083a17b1b16a0ab64b570a556858f2bd85ac1",
+      "step": 0.1,
+      "largeAmountThreshold": 50
+    },
+    "BNB": {
+      "decimal": 18,
+      "address": "0x0b27efaa5a73ebbb1404b6ebee811da7bf07c989",
+      "step": 0.1,
+      "largeAmountThreshold": 50
+    }
+  }
+}
