@@ -1,4 +1,7 @@
 {
+  "web3" : {
+    "url": "https://kovan.infura.io/VbFnikDJO7ys1poOWJhv"
+  },
   "tokenList": {
     "MCO": {
       "decimal": 8,
