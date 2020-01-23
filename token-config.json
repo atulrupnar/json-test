@@ -1,25 +1,22 @@
 {
-  "web3" : {
-    "url": "https://kovan.infura.io/v3/91ada2a0fd93476a8de8fedc5719c56b"
-  },
-  "tokenList": {
-    "MCO": {
-      "decimal": 8,
-      "address": "0xcac083a17b1b16a0ab64b570a556858f2bd85ac1",
-      "step": 0.1,
-      "largeAmountThreshold": 50
+  "content" : {
+    "web3" : {
+      "url": "https://kovan.infura.io/VbFnikDJO7ys1poOWJhv"
     },
-    "BNB": {
-      "decimal": 18,
-      "address": "0x0b27efaa5a73ebbb1404b6ebee811da7bf07c989",
-      "step": 0.1,
-      "largeAmountThreshold": 50
-    },
-    "CRO": {
-      "decimal": 18,
-      "address": "0x0b27efaa5a73ebbb1404b6ebee811da7bf07c989",
-      "step": 0.1,
-      "largeAmountThreshold": 50
+    "tokenList": {
+      "MCO": {
+        "decimal": 8,
+        "address": "0xcac083a17b1b16a0ab64b570a556858f2bd85ac1",
+        "step": 0.1,
+        "largeAmountThreshold": 50
+      },
+      "BNB": {
+        "decimal": 18,
+        "address": "0x0b27efaa5a73ebbb1404b6ebee811da7bf07c989",
+        "step": 0.1,
+        "largeAmountThreshold": 50
+      }
     }
-  }
+  },
+  "signature" : "0x81506402291a8b3a52a1fcd9f37fe56723b5696ca0b19a6304aa174966ef0167334f66443703339c543340a96c56d57b3e852bf845af1b1398331c5a3d31ee2f1c"
 }
